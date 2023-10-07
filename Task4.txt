@@ -1,0 +1,22 @@
+HTML Tags and Elements: 
+
+
+HTML Tags: HTML tags serve as instructions or labels that define different parts of a web page. Tags act as building blocks, instructing web browsers on how to display content. They always come in pairs, consisting of an opening tag and a closing tag.
+
+For instance, the <h1> tag indicates a top-level heading on a webpage. When used, the opening tag <h1> and the closing tag </h1> together convey to the browser that this text should be treated as the primary headline of the page.
+
+Here's an example:
+
+
+<h1>This is a Heading</h1>
+
+HTML Elements: An HTML element encompasses an opening tag, the content to be displayed, and the corresponding closing tag. It forms a complete unit that defines a specific part of a webpage.
+
+Using the <h1> example once more, the complete <h1> element includes:
+
+The opening tag: <h1>
+The content: "This is a Heading"
+The closing tag: </h1>
+When combined, these elements create an HTML element that instructs the browser to display a top-level heading with the specified text.
+
+HTML tags and elements exist in various types, each fulfilling a particular role, such as headings (<h1>, <h2>, etc.), paragraphs (<p>), images (<img>), links (<a>), and more. They play a pivotal role in structuring and formatting web content for comprehensible presentation to both browsers and humans.

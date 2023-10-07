@@ -1,0 +1,9 @@
+The "DOCTYPE declaration" in HTML, often referred to as just "DOCTYPE," is a special instruction placed at the very beginning of an HTML document to tell web browsers which version of HTML (or XHTML) the document is written in. It stands for "Document Type Declaration."
+
+The DOCTYPE declaration helps browsers interpret and render the content correctly because different versions of HTML have different rules and features. By specifying the DOCTYPE, you ensure that the browser knows how to handle your HTML document.
+
+
+<!DOCTYPE html>
+<html>
+  <!-- The rest of your HTML document goes here -->
+</html>
